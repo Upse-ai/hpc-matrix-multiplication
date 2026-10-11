@@ -1,0 +1,10 @@
+# Compiled binaries / build artifacts
+task0
+task1
+task2
+*.exe
+*.pdb
+*.o
+Project
+taleark.txt
+weak_scaling.png
