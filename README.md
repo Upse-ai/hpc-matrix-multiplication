@@ -1,6 +1,6 @@
 # Parallel Matrix-Matrix Multiplication (DM8100 – High Performance Computing)
 
-Exam project for DM8100 HPC at SDU (2026). Matrix-matrix multiplication `C = A × B` implemented with four approaches, and evaluated in terms of **strong** and **weak scaling**.
+ Matrix-matrix multiplication `C = A × B` implemented with four approaches, and evaluated in terms of **strong** and **weak scaling**.
 
 | File | Task | Description |
 |------|------|-------------|
